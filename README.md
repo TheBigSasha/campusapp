@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Meet Your Classmates
+## What’s Different
+Unlike large social networks, this experience is restricted to specifically university students, verifying them with school issued email. It suggests people based on unique criteria like course schedule, place of origin, and major/concentration. These data points are specific to a campus restricted social platform and help bridge the gap between distant students.
 
-You can use the [editor on GitHub](https://github.com/TheBigSasha/campusapp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Core Ideas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Security
+A restriction to university students keeps content out of the public internet, on a secure and gated platform. Campus based activities and class related information can freely be shared knowing that it is among one’s fellow students.
 
-### Markdown
+### Accountability
+Verification with school IDs provides another level of online safety and provides a robust system for holding platform users accountable, enabling an environment more free from abuse than is possible on other platforms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Approachability
+Easy and intuitive matching based on common metrics, interests, and academic information makes the platform easy and approachable. As a data aggregation system, this application makes it easy to find people to connect with, and provides an easy way to connect to these people on established social platforms.
 
-```markdown
-Syntax highlighted code block
+# Beta Access
+*Beta access is available to McGill students and staff*
+Please follow this link to sign up https://forms.gle/Ryd6RuDDSjBEusVG7
+## Android Beta Available Now
 
-# Header 1
-## Header 2
-### Header 3
+## Test on desktop via [Bluestacks](https://www.bluestacks.com)
 
-- Bulleted
-- List
+## iOS Beta Coming soon!
+The iOS version is in progress. If you are interested in helping or want more info contact me at Alexander.aleshchenko@mail.mcgill.ca
 
-1. Numbered
-2. List
+I’m also currently looking for beta testers on Android and interested developers with experience in Android, iOS, ASP.net, and or web development who may want to join the project.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheBigSasha/campusapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
