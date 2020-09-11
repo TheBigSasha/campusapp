@@ -15,8 +15,9 @@ Easy and intuitive matching based on common metrics, interests, and academic inf
 
 # Beta Access
 *Beta access is available to McGill students and staff*
-Please follow this link to sign up https://forms.gle/Ryd6RuDDSjBEusVG7
+Please follow [this link](https://forms.gle/Ryd6RuDDSjBEusVG7) to sign up 
 ## Android Beta Available Now
+[Screenshots from early beta](https://sashaphotoca.files.wordpress.com/2020/08/2020-08-19-11_07_50-android-emulator-pixel_3a_api_30_5554.png?w=700&h=)
 ![im1](https://sashaphotoca.files.wordpress.com/2020/08/screenshot_20200828-001716.png?w=700&h=)
 ![im2](https://sashaphotoca.files.wordpress.com/2020/08/2020-08-19-11_07_50-android-emulator-pixel_3a_api_30_5554.png?w=700&h=)
 
